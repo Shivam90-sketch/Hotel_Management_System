@@ -1,4 +1,4 @@
-# Hotel_Management_System
+# Hospital_Management_System
 @Username :- Shivam
 @Password :- Shivam
 
